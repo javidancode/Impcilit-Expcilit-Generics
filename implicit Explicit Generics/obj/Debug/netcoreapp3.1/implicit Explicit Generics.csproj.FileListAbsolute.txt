@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\implicit Explicit Generics\implicit Explicit Generics\implicit Explicit Generics\bin\Debug\netcoreapp3.1\implicit Explicit Generics.exe
+C:\Users\ASUS\source\repos\implicit Explicit Generics\implicit Explicit Generics\implicit Explicit Generics\bin\Debug\netcoreapp3.1\implicit Explicit Generics.deps.json
+C:\Users\ASUS\source\repos\implicit Explicit Generics\implicit Explicit Generics\implicit Explicit Generics\bin\Debug\netcoreapp3.1\implicit Explicit Generics.runtimeconfig.json
+C:\Users\ASUS\source\repos\implicit Explicit Generics\implicit Explicit Generics\implicit Explicit Generics\bin\Debug\netcoreapp3.1\implicit Explicit Generics.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\implicit Explicit Generics\implicit Explicit Generics\implicit Explicit Generics\bin\Debug\netcoreapp3.1\implicit Explicit Generics.dll
+C:\Users\ASUS\source\repos\implicit Explicit Generics\implicit Explicit Generics\implicit Explicit Generics\bin\Debug\netcoreapp3.1\implicit Explicit Generics.pdb
+C:\Users\ASUS\source\repos\implicit Explicit Generics\implicit Explicit Generics\implicit Explicit Generics\obj\Debug\netcoreapp3.1\implicit Explicit Generics.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\implicit Explicit Generics\implicit Explicit Generics\implicit Explicit Generics\obj\Debug\netcoreapp3.1\implicit Explicit Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\implicit Explicit Generics\implicit Explicit Generics\implicit Explicit Generics\obj\Debug\netcoreapp3.1\implicit Explicit Generics.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\implicit Explicit Generics\implicit Explicit Generics\implicit Explicit Generics\obj\Debug\netcoreapp3.1\implicit Explicit Generics.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\implicit Explicit Generics\implicit Explicit Generics\implicit Explicit Generics\obj\Debug\netcoreapp3.1\implicit Explicit Generics.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\implicit Explicit Generics\implicit Explicit Generics\implicit Explicit Generics\obj\Debug\netcoreapp3.1\implicit Explicit Generics.dll
+C:\Users\ASUS\source\repos\implicit Explicit Generics\implicit Explicit Generics\implicit Explicit Generics\obj\Debug\netcoreapp3.1\implicit Explicit Generics.pdb
+C:\Users\ASUS\source\repos\implicit Explicit Generics\implicit Explicit Generics\implicit Explicit Generics\obj\Debug\netcoreapp3.1\implicit Explicit Generics.genruntimeconfig.cache
